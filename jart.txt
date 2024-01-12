@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">  
+    <link rel="stylesheet" href="nav.css">
+    <style>
+        @media (min-width: 768px) {
+            .navbar-collapse {
+                justify-content: flex-end;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <section class="">
+        <nav  id="navbar" class="navbar navbar-light bg-light fixed-top">
+            <a class="navbar-brand" href="index.html">
+                <!-- <img src="your-logo.png" alt="Your Logo"> -->
+                <h2 class="text-uppercase text-white">Chisom Okeke</h2>
+            </a>
+
+            <button class="navbar-toggler first-button" type="button" data-toggle="collapse"
+              data-target="#navbarToggleExternalContent9"
+              aria-controls="navbarToggleExternalContent9" aria-expanded="false"
+              aria-label="Toggle navigation">
+              <div class="animated-icon1"><span></span><span></span><span></span></div>
+            </button>
+
+            <!-- Navigation Links -->
+            <div class="collapse navbar-collapse" id="navbarToggleExternalContent9">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Beauty <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Fashion <span class="sr-only">(current)</span></a>
+                    </li>
+                    <!-- Add more navigation links as needed -->
+                </ul>
+            </div>
+        </nav>
+    </section>
+    
+    <section class="image-section">
+        <div class="container">
+            <p>Model and Fashion Influencer</p>
+            <h2>CHISOM OKEKE</h2>
+        </div>
+    </section>
+
+    <section class="bk-color-2" id="about">
+        <div class="container mt-5">
+            <div class="row">              
+                <div class="col-lg-6 col-md-12">
+                    <div class="intro-text-2">
+                        <p class="custom-h3 mt-3">GET YOUR SHINE ON</p>
+                        <h2>Skilled Nail Art</h2>
+                        <p>Welcome to Abisola Nail Studio where beauty meets precision and glamour embraces every fingertip. Our expert nail technicians are dedicated to providing you with a luxurious and personalized nail experience that goes beyond expectations.
+                            .</p>
+                        <p class="add-dot">Experience the long-lasting allure of gel polish. Our extensive collection of vibrant hues and trendsetting designs will have your nails stealing the spotlight. Enjoy chip-free, glossy perfection that lasts weeks, ensuring you're always on point.</p>
+                        <p class="add-dot">Pamper yourself with our signature manicures and pedicures, designed to rejuvenate and beautify. Choose from a spectrum of exquisite colors and indulge in our premium nail care treatments that leave your hands and feet feeling refreshed and fabulous..</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
+                    <img src="https://media.istockphoto.com/id/1796322346/photo/woman-in-winter-clothes.jpg?s=612x612&w=0&k=20&c=CNfqZ1h-LiHbHjVBfu8UdJiNUz6dX_UM8pQqFBn9UiA=" class="img-fluid w-100" alt="Your Image">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="Services mt-3">
+        <div class="container">
+            <h2 class="text-center">My Services</h2>
+        </div>
+    </section>
+
+    <section class="image-grid-section">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-lg-3 col-md-3 col-sm-6 mb-4">
+                    <div class="grid-item">
+                        <img src="./images/20220218_135511.jpg" class="img-fluid" alt="Image 1">
+                        <div class="overlay">
+                            <p class="text-uppercase">Fashion</p>
+                            <div class="arrow"></div>
+                        </div>
+                    </div>
+                </div>
+             
+                <div class="col-lg-3 col-md-3 col-sm-6 mb-4">
+                    <div class="grid-item">
+                        <img src="https://media.istockphoto.com/id/1440789080/photo/beautiful-woman.jpg?s=612x612&w=0&k=20&c=wtuk3lVfbvlW2EGKHT_gUQY1gL7yoolMeIrchbP0F9s=" class="img-fluid" alt="Image 2">
+                        <div class="overlay">
+                            <p class="text-uppercase">Beauty</p>
+                            <div class="arrow"></div>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-3 col-sm-6 mb-4">
+                    <div class="grid-item">
+                        <img src="./images/20220812_212042.jpg" class="img-fluid" alt="Image 3">
+                        <div class="overlay">
+                            <p class="text-uppercase">Fine Jewelry</p>
+                            <div class="arrow"></div>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-3 col-sm-6 mb-4">
+                    <div class="grid-item">
+                        <img src="./images/20220521_183615.jpg" class="img-fluid" alt="Image 4">
+                        <div class="overlay">
+                            <p class="text-uppercase">Lifestyle</p>
+                            <div class="arrow"></div>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- <div class="col-lg-3 col-md-3 col-sm-6 mb-4">
+                    <div class="grid-item">
+                        <img src="./images/20220501_155317.jpg" class="img-fluid" alt="Image 5">
+                        <div class="overlay">
+                            <p>Affiliates</p>
+                            <div class="arrow"></div>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-3 col-sm-6 mb-4">
+                    <div class="grid-item">
+                        <img src="./images/20220218_135511.jpg" class="img-fluid" alt="Image 6">
+                        <div class="overlay">
+                            <p>Membership</p>
+                            <div class="arrow"></div>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </section>
+    
+
+    <script src="script.js"></script>
+    <script>
+        document.querySelector('.first-button').addEventListener('click', function () {
+            document.querySelector('.animated-icon1').classList.toggle('open');
+        });
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

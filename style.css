@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+    background-image: url('./images/OX1E4v2Aia78t0oSW8M3_M.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons i {
+    font-size: 24px;
+    margin: 0 10px;
+    color: #fff;
+}
+
+.about-bg {
+    margin: 0;
+    padding: 0;
+    background-image: url('./images/chisom-Face-card-8.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.contact-bg {
+    margin: 0;
+    padding: 0;
+    background-image: url('./images/chisom-Face-card.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.form-control{
+    color: #fff;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    border-radius: 0;
+    background-color: transparent;
+    outline: none;
+}
+
+.form-control::placeholder {
+    color: #fff; 
+}
+
+.form-control:focus {
+    color: #fff; 
+    background-color: transparent;
+    box-shadow: none;
+    border-bottom: 1px solid white; 
+}
+
+.black-section p{
+line-height: 1.8;
+}
+
+.black-section h2,
+.black-section p {
+    color: white;
+}
+
+.custom-btn{
+    border-color: white;
+}
+
+.about-bg {
+    position: relative;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+
+.text-overlay p {
+    margin-bottom: 20px; 
+}
+
+.my-story .social-icons i {
+    font-size: 24px;
+    margin: 0 10px 10px 0;
+    color: #000;
+}
+
+.span{
+    color: yellowgreen;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 500px; 
+}
+
+.measurement-item {
+    margin-bottom: 1px;
+    font-size: 1.5em;
+}
+
+@media (max-width: 764px) {
+    .black-section p {
+        line-height: 1.1;
+    }
+}
+
+@media (max-width: 400px) {
+    .carousel-item img{
+        width: 100%;
+        height: 300px; 
+    }
+    .black-section p {
+        line-height: 1;
+    }
+
+}
