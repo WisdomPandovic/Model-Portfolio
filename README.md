@@ -1,14 +1,14 @@
 # Chisom Okeke Portfolio App
 
 ## Table of Contents
-Description
-Features
-Live Demo
-Usage
-Technologies Used
-Contributing
-License
-Contact
+1. Description
+2. Features
+3. Live Demo
+4. Usage
+5. Technologies Used
+6. Contributing
+7. License
+8. Contact
 
 ## Description
 The Chisom Okeke Portfolio App is a web application showcasing the portfolio of Chisom Okeke, a Nigerian model and influencer. The app provides information about Chisom, including her biography, measurements, polaroid images, video showcase, collaborations, and more.
