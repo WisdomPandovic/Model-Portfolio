@@ -23,7 +23,7 @@ The Chisom Okeke Portfolio App is a web application showcasing the portfolio of 
 7. Contact Form: Connect with Chisom using the provided contact form.
 
 ## Live Demo
-Check out the live demo: [Chisom Okeke Portfolio](https://abisola-nail-studio.vercel.app/)
+Check out the live demo: [Chisom Okeke Portfolio](https://wisdompandovic.github.io/Model-Portfolio/)
 
 ## Usage
 Clone the repository: git clone https://github.com/WisdomPandovic/Model-Portfolio.git
