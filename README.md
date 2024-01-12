@@ -3,7 +3,6 @@
 ## Table of Contents
 Description
 Features
-Screenshots
 Live Demo
 Usage
 Technologies Used
@@ -15,19 +14,21 @@ Contact
 The Chisom Okeke Portfolio App is a web application showcasing the portfolio of Chisom Okeke, a Nigerian model and influencer. The app provides information about Chisom, including her biography, measurements, polaroid images, video showcase, collaborations, and more.
 
 ## Features
-Navigation: Easy navigation through the portfolio sections using the top navigation bar.
-Biography: Learn about Chisom's background, career, and passion for fashion and modeling.
-Measurements: Get detailed information about Chisom's physical measurements.
-Polaroid Gallery: View a stunning gallery of polaroid images featuring Chisom.
-Video Showcase: Watch a video showcasing Chisom's work and style.
-Collaborations: Explore Chisom's collaborations with various partners.
-Contact Form: Connect with Chisom using the provided contact form.
+1. Navigation: Easy navigation through the portfolio sections using the top navigation bar.
+2. Biography: Learn about Chisom's background, career, and passion for fashion and modeling.
+3. Measurements: Get detailed information about Chisom's physical measurements.
+4. Polaroid Gallery: View a stunning gallery of polaroid images featuring Chisom.
+5. Video Showcase: Watch a video showcasing Chisom's work and style.
+6. Collaborations: Explore Chisom's collaborations with various partners.
+7. Contact Form: Connect with Chisom using the provided contact form.
 
 ## Live Demo
-Visit the live demo of the Chisom Okeke Portfolio App here.
+Check out the live demo: [Chisom Okeke Portfolio](https://abisola-nail-studio.vercel.app/)
 
-Usage
-Describe how users can navigate through your app and make the best use of its features.
+## Usage
+Clone the repository: git clone https://github.com/WisdomPandovic/Model-Portfolio.git
+
+Open index.html in your preferred web browser.
 
 ## Technologies Used
 1. HTML5
@@ -45,8 +46,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries, email: info@bethmanagement.com
-Chisom Okeke's social media:
-Facebook
-Twitter
-Instagram
+For inquiries, please contact us at wisdompandovic@gmail.com.
